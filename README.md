@@ -85,3 +85,5 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with BigBlueButton-liveStreaming.  If not, see [GNU website](https://www.gnu.org/licenses)
+
+20201116 forked for Colectic COOP adaptations 
