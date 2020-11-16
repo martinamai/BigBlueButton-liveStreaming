@@ -41,6 +41,7 @@ You need to set some environment variables to run the container.
 
 ### Starting liveStreaming
 * wget -O docker-compose.yml https://raw.github.com/aau-zid/BigBlueButton-liveStreaming/1.0.0-beta.5/examples/docker-compose.yml.example
+* wget -O docker-composer.yml https://raw.githubusercontent.com/martinamai/BigBlueButton-liveStreaming/master/examples/docker-compose.yml.example
 * (change configuration)
 * docker-compose up -d
 * docker-compose down 
